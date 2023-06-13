@@ -1,4 +1,7 @@
-pytest==7.0.1
-requests==2.27.1
+pytest==6.2.5
+requests==2.28.1
 pydantic==1.9.0
 allure-pytest==2.9.45
+faker==11.3.0
+pytest-xdist==2.5.0
+pyhamcrest==2.0.4
